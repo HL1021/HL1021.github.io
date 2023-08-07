@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkklm_website=self.webpackChunkklm_website||[]).push([[2417],{9931:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/\u7ec4\u4f1a\u62a5\u544a","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
