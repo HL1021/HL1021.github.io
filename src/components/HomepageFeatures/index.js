@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        右上角的“Git”将会跳转到仓库。需要注册和KLM内网，可以在仓库中上传和下载文档和代码（单个文件大小限制为2GB，暂时可以同时上传15个文件，如果有更多的需求就联系我）。
+        右上角的“Git”将会跳转到仓库。需要注册和KLM内网，可以在仓库中上传和下载文档和代码（单个文件大小限制为2GB，暂时可以同时上传50个文件，如果有更多的需求就联系我）。
       </>
     ),
   },
