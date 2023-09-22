@@ -92,8 +92,12 @@ const config = {
             title: '文档',
             items: [
               {
-                label: '说明文档',
+                label: '使用简介',
                 to: '/docs/使用教学/简介',
+              },
+              {
+                label: 'Markdown语法教学',
+                to: '/docs/tutorial-basics/markdown-features',
               },
             ],
           },
