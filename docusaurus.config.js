@@ -126,6 +126,10 @@ const config = {
                 label: '个人工作汇总',
                 href: 'https://hl1021.github.io/markdown-page',
               },
+              {
+                label: 'workflow',
+                to: '/work/workflow',
+              },
             ],
           },
           {
@@ -136,8 +140,8 @@ const config = {
                 to: '/blog',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Git仓库',
+                href: 'https://192.168.31.167',
               },
             ],
           },
