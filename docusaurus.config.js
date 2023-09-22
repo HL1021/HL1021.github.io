@@ -124,7 +124,7 @@ const config = {
             items: [
               {
                 label: '个人工作汇总',
-                to: '/src/pages/markdown-page',
+                href: 'https://hl1021.github.io/markdown-page',
               },
             ],
           },
