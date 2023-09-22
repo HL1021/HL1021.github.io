@@ -88,7 +88,7 @@ const config = {
       footer: {
         style: 'dark',
         links: [
-          /*{
+          {
             title: 'Docs',
             items: [
               {
@@ -126,7 +126,7 @@ const config = {
                 href: 'https://github.com/facebook/docusaurus',
               },
             ],
-          },*/
+          },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} KLM Lab, Built with Docusaurus.`,
       },
