@@ -101,6 +101,7 @@ const config = {
               },
             ],
           },
+          /*
           {
             title: 'Community',
             items: [
@@ -115,6 +116,15 @@ const config = {
               {
                 label: 'Twitter',
                 href: 'https://twitter.com/docusaurus',
+              },
+            ],
+          },*/
+          {
+            title: '合作',
+            items: [
+              {
+                label: '个人工作汇总',
+                to: '/src/pages/markdown-page',
               },
             ],
           },
