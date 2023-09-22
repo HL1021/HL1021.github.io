@@ -127,8 +127,8 @@ const config = {
                 href: 'https://hl1021.github.io/markdown-page',
               },
               {
-                label: 'workflow',
-                to: '/work/workflow',
+                label: 'Workflow',
+                href: 'https://hl1021.github.io/markdown-page',
               },
             ],
           },
