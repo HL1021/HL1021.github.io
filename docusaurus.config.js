@@ -124,11 +124,11 @@ const config = {
             items: [
               {
                 label: '个人工作汇总',
-                href: 'https://hl1021.github.io/markdown-page',
+                href: 'https://hl1021.github.io/intro',
               },
               {
                 label: 'Workflow',
-                href: 'https://hl1021.github.io/markdown-page',
+                href: 'https://hl1021.github.io/workflow',
               },
             ],
           },
