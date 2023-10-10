@@ -23,7 +23,7 @@ Welcome to my work display webpage! Explore our projects and achievements below.
 ## Projects
 ### Equipments in lab
 **Equipments list and price**  [excel](http://192.168.31.167/zhanghy/KLMlab/src/branch/main/information)
-**introduction and mannuls for equipments**  [金山共享文档](https://www.kdocs.cn/l/cgINrz7BmEwS%3Ffrom%3Dedu%26reqtype%3Dkdocs&t%3D1665836162416%26createDirect%3Dtrue%26newFile%3Dtrue)
+**introduction and mannuls for equipments**  [金山共享文档](https://kdocs.cn/l/cgINrz7BmEwS)
 - **CAEN**
   - [CAEN](caen.it)
 - **scintillator**
