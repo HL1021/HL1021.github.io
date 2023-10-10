@@ -1,5 +1,5 @@
 # Work at Fudan klm lab
-<img src="./zhanghy_figs/FDU_logo.png" width=20% />  <img src="./zhanghy_figs/fudan.png" width=8% />
+
 
 ## Introduction
 Welcome to my work display webpage! Explore our projects and achievements below. 
