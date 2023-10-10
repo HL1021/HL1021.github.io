@@ -23,19 +23,19 @@ Welcome to my work display webpage! Explore our projects and achievements below.
 ## Projects
 ### Equipments in lab
 **Equipments list and price**  [excel](http://192.168.31.167/zhanghy/KLMlab/src/branch/main/information)
-**introduction and mannuls for equipments**  [金山共享文档](https://kdocs.cn/l/cgINrz7BmEwS)
+**introduction and mannuls for equipments**  [kdoc](https://kdocs.cn/l/cgINrz7BmEwS)
 - **CAEN**
   - [CAEN](caen.it)
 - **scintillator**
-  - [高能科迪](http://www.gaonengkedi.com/)
+  - 高能科迪[GNKD](http://www.gaonengkedi.com/)
   - 圣戈班
 - **SiPM**
-  - [滨松](https://www.hamamatsu.com/us/en/product/optical-sensors/mppc.html)
+  - 滨松[MPPC](https://www.hamamatsu.com/us/en/product/optical-sensors/mppc.html)
   - [NDL](http://www.ndl-sipm.net/products.html)
 ### Code for work
-- [示波器合并波形数据](http://192.168.31.167/zhanghy/KLMlab/src/branch/code/other)
-- [示波器读取数据](http://192.168.31.167/zhanghy/KLMlab/src/branch/code/other)
-- [CFD and Fit](http://192.168.31.167/zhanghy/KLMlab/src/branch/main/code/cfd)
+- 示波器合并波形数据[merge](http://192.168.31.167/zhanghy/KLMlab/src/branch/code/other)
+- 示波器读取数据[read](http://192.168.31.167/zhanghy/KLMlab/src/branch/code/other)
+- CFD and Fit[T-CFD](http://192.168.31.167/zhanghy/KLMlab/src/branch/main/code/cfd)
 
 ## Contact
 Feel free to reach out for questions or collaboration opportunities.
@@ -47,6 +47,5 @@ Feel free to reach out for questions or collaboration opportunities.
 
 ---
 
+*Thanks to the guys who work together！*
 *Thank you for visiting!*
-*Thank you to the guys who work together！*
-
