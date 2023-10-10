@@ -21,16 +21,16 @@ slides
 ### efficiency
 - **Description:** Brief description of the project.
 - **Technologies Used:** List of technologies used.
-- **Link to Project:** [Explore Project](#)
-- **PDF Documentation:** [Documentation PDF](url_to_documentation_pdf)
+- **Link to Project:** [http://192.168.31.167/zhanghy/KLMlab/src/branch/main/GroupMeeting](#)
+- **PDF Documentation:** [Documentation PDF](http://192.168.31.167/zhanghy/KLMlab/src/branch/main/GroupMeeting)
 
-![Project Image](url_to_project_image)
+![Project Image](http://192.168.31.167/zhanghy/KLMlab/src/branch/main/GroupMeeting)
 
 ### time resolution
 - **Description:** Brief description of the project.
 - **Technologies Used:** List of technologies used.
 - **Link to Project:** [Explore Project](#)
-- **PDF Documentation:** [Documentation PDF](url_to_another_documentation_pdf)
+- **PDF Documentation:** [Documentation PDF](http://192.168.31.167/zhanghy/KLMlab/src/branch/main/GroupMeeting)
 
 ![Project Image](./zhanghy_figs/DT5725.jpg)
 
