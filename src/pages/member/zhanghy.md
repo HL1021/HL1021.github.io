@@ -10,7 +10,7 @@ Welcome to my work display webpage! Explore our projects and achievements below.
 
 ## Reports 
 ### group meetings
-slides
+[slides](http://192.168.31.167/zhanghy/KLMlab/src/branch/main/GroupMeeting)
 ### Belle II
 slides
 ### CEPC
