@@ -32,7 +32,7 @@ slides
 - **Link to Project:** [Explore Project](#)
 - **PDF Documentation:** [Documentation PDF](url_to_another_documentation_pdf)
 
-![Project Image](url_to_another_project_image)
+![Project Image]([url_to_another_project_image](http://192.168.31.167/zhanghy/KLMlab/src/branch/main/%E9%AB%98%E5%8E%8B%E7%94%B5%E6%BA%90.jpg))
 
 ### equipments in lab
 
