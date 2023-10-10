@@ -1,9 +1,4 @@
 # work at fudan klm lab
-## Navigation
-- [reports](#reports)
-- [Projects](#projects)
-- [Contact](#contact)
-- [About Me](#about-me)
 
 ## Introduction
 Welcome to my work display webpage! Explore our projects and achievements below.
@@ -12,24 +7,21 @@ Welcome to my work display webpage! Explore our projects and achievements below.
 ### group meetings
 [slides](http://192.168.31.167/zhanghy/KLMlab/src/branch/main/GroupMeeting)
 ### Belle II
-slides
+[slides](http://192.168.31.167/zhanghy/KLMlab/src/branch/main/reports_Belle2)
 ### CEPC
-slides
+[slides](http://192.168.31.167/zhanghy/KLMlab/src/branch/main/reports_CEPC)
 
 ## Projects
 
 ### efficiency
 - **Description:** Brief description of the project.
 - **Technologies Used:** List of technologies used.
-- **Link to Project:** [http://192.168.31.167/zhanghy/KLMlab/src/branch/main/GroupMeeting](#)
 - **PDF Documentation:** [Documentation PDF](http://192.168.31.167/zhanghy/KLMlab/src/branch/main/GroupMeeting)
-
-![Project Image](http://192.168.31.167/zhanghy/KLMlab/src/branch/main/GroupMeeting)
 
 ### time resolution
 - **Description:** Brief description of the project.
 - **Technologies Used:** List of technologies used.
-- **Link to Project:** [Explore Project](#)
+[//]:- **Link to Project:** [Explore Project](#)
 - **PDF Documentation:** [Documentation PDF](http://192.168.31.167/zhanghy/KLMlab/src/branch/main/GroupMeeting)
 
 ![Project Image](./zhanghy_figs/DT5725.jpg)
