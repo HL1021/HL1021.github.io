@@ -11,7 +11,7 @@ Welcome to my work display webpage! Explore our projects and achievements below.
 <img src=./zhanghy_figs/Belle2.png width=3% />
 - [slides](http://192.168.31.167/zhanghy/KLMlab/src/branch/main/reports_Belle2)  
 - past conferences:  
-  - <https://indico.belle2.org/event/9354/sessions/3183/%2320230602>  
+  - <https://indico.belle2.org/event/9354/sessions/3183/20230602>  
   - <https://indico.ihep.ac.cn/event/19066/page/1466>
 
 ### CEPC 
