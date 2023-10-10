@@ -22,7 +22,7 @@ Welcome to my work display webpage! Explore our projects and achievements below.
 
 ## Projects
 ### Equipments in lab
-**Equipments list and price**[excel](http://192.168.31.167/zhanghy/KLMlab/src/branch/main/information)
+**Equipments list and price**  [excel](http://192.168.31.167/zhanghy/KLMlab/src/branch/main/information)
 - **CAEN**
   - [CAEN](caen.it)
 - **scintillator**
