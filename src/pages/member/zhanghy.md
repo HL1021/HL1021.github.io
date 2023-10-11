@@ -53,5 +53,5 @@ Feel free to reach out for questions or collaboration opportunities.
 
 ---
 
-*Thanks to the guys who work together！*
+*Thanks to the guys who work together！* :smile:
 *Thank you for visiting!*
