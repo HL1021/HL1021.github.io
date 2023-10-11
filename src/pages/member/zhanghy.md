@@ -1,5 +1,8 @@
 # Work at Fudan klm lab
-
+<div style="float: right; margin-left: 20px;">
+  <img src="./zhanghy_figs/fudan.png" alt="Image Alt Text" width="50">
+  <img src="./zhanghy_figs/FDU_logo.png" alt="Image Alt Text" width="100">
+</div>
 
 ## Introduction
 Welcome to my work display webpage! Explore our projects and achievements below. 
