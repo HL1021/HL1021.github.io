@@ -9,13 +9,14 @@ Welcome to my work display webpage! Explore our projects and achievements below.
 ### Group meetings
 - [slides](http://192.168.31.167/zhanghy/KLMlab/src/branch/main/GroupMeeting)
 ### Belle II 
-
+![fdulogo](./zhanghy_figs/Belle2.png)
 - [slides](http://192.168.31.167/zhanghy/KLMlab/src/branch/main/report_Belle2)  
 - past conferences:  
   - <https://indico.belle2.org/event/9354/sessions/3183/#20230602>  
   - <https://indico.ihep.ac.cn/event/19066/page/1466>
 
 ### CEPC 
+![fdulogo](./zhanghy_figs/CEPC.png)
 
 - [slides](http://192.168.31.167/zhanghy/KLMlab/src/branch/main/reports_CEPC)  
 - past conferences:  
