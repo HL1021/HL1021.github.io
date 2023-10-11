@@ -26,7 +26,7 @@ Welcome to my work display webpage! Explore our projects and achievements below.
 
 ## Projects
 ### Equipment in lab
-**Equipments list and price**  [excel](http://192.168.31.167/zhanghy/KLMlab/src/branch/main/information)
+**Equipments list and price**  [excel](http://192.168.31.167/zhanghy/KLMlab/src/branch/main/information)  
 **introduction and manuals for equipments**  [kdoc](https://kdocs.cn/l/cgINrz7BmEwS)
 - **CAEN**
   - [CAEN](https://www.caen.it/)
@@ -51,5 +51,5 @@ Feel free to reach out for questions or collaboration opportunities.
 
 ---
 
-*Thanks to the guys who work together！* :smile:
+*Thanks to the guys who work together！* :smile:  
 *Thank you for visiting!*
