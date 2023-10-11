@@ -27,7 +27,7 @@ Welcome to my work display webpage! Explore our projects and achievements below.
 **Equipments list and price**  [excel](http://192.168.31.167/zhanghy/KLMlab/src/branch/main/information)
 **introduction and manuals for equipments**  [kdoc](https://kdocs.cn/l/cgINrz7BmEwS)
 - **CAEN**
-  - [CAEN](caen.it)
+  - caen.it
 - **scintillator**
   - 高能科迪[GNKD](http://www.gaonengkedi.com/)
   - 圣戈班
